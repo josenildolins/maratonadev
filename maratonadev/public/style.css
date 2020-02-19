@@ -33,7 +33,7 @@ h1 h2{
 
 /* TITULOS*/
 header h1, main h2{
-    margin-bottom: 70px;
+    margin-bottom: 1px;
 }
 
 
@@ -60,7 +60,7 @@ header, .form, main {
         a margem é aplicada em sentido horário TOP,RIGHT,BOTTOM,LEFT.
         se os valores da margem direita e esquerda forem os mesmos o valor do meio serve para os dois
     */
-    margin: 0 auto 70%; 
+    margin: 0 auto 10%; 
 
     /* limites dos elementos na página*/
     width: 90%;
@@ -168,6 +168,7 @@ main .donors{
 
 .donor p{
     margin-top: 24px;
+    margin-bottom: 64px;
     font-size: 14px;
 }
 
